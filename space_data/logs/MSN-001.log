@@ -1,0 +1,22 @@
+========================================
+SESSION OUVERTE — 2026-02-19 07:31:13
+Mission : MSN-001
+========================================
+[2026-02-19 07:31:13] [INFO] Début de la séquence d'approche lunaire
+[2026-02-19 07:31:13] [INFO] Activation des rétrofusées
+[2026-02-19 07:31:13] [WARNING] Légère déviation de trajectoire détectée
+[2026-02-19 07:31:13] [INFO] Correction appliquée — retour sur trajectoire nominale
+========================================
+SESSION FERMÉE — 2026-02-19 07:31:13
+Durée : 0.000s | Erreurs : 0
+========================================
+========================================
+SESSION OUVERTE — 2026-02-19 07:31:13
+Mission : MSN-001
+========================================
+[2026-02-19 07:31:13] [INFO] Test de communication
+[2026-02-19 07:31:13] [CRITICAL] Exception capturée : ConnectionError — Perte du signal principal
+========================================
+SESSION FERMÉE — 2026-02-19 07:31:13
+Durée : 0.000s | Erreurs : 1
+========================================

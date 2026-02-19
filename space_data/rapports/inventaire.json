@@ -1,0 +1,43 @@
+{
+  "date_scan": "2026-02-19T07:25:15",
+  "total_fichiers": 6,
+  "taille_totale_octets": 7564,
+  "fichiers": [
+    {
+      "chemin": "space_data/config_systeme.json",
+      "taille_octets": 570,
+      "derniere_modification": "2026-02-18T14:58:57.741014",
+      "extension": ".json"
+    },
+    {
+      "chemin": "space_data/corrompu.json",
+      "taille_octets": 46,
+      "derniere_modification": "2026-02-18T16:05:32.794105",
+      "extension": ".json"
+    },
+    {
+      "chemin": "space_data/equipages.json",
+      "taille_octets": 2446,
+      "derniere_modification": "2026-02-18T14:56:44.370301",
+      "extension": ".json"
+    },
+    {
+      "chemin": "space_data/missions.json",
+      "taille_octets": 1563,
+      "derniere_modification": "2026-02-18T15:27:09.691682",
+      "extension": ".json"
+    },
+    {
+      "chemin": "space_data/telemetrie.json",
+      "taille_octets": 2782,
+      "derniere_modification": "2026-02-18T14:51:34.775581",
+      "extension": ".json"
+    },
+    {
+      "chemin": "space_data/logs/journal.json",
+      "taille_octets": 157,
+      "derniere_modification": "2026-02-18T16:19:54.812512",
+      "extension": ".json"
+    }
+  ]
+}

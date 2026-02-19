@@ -1,0 +1,76 @@
+{
+  "astronautes": [
+    {
+      "nom": "Léa Fontaine",
+      "grade": "Commandant",
+      "nationalite": "France",
+      "missions_effectuees": 3,
+      "specialite": "Pilotage & navigation",
+      "heures_vol_spatial": 4200,
+      "certifications": ["EVA", "pilotage_manuel", "amarrage"]
+    },
+    {
+      "nom": "Karim Bensaïd",
+      "grade": "Spécialiste de mission",
+      "nationalite": "Algérie",
+      "missions_effectuees": 1,
+      "specialite": "Géologie planétaire",
+      "heures_vol_spatial": 720,
+      "certifications": ["EVA", "analyse_terrain"]
+    },
+    {
+      "nom": "Yuki Tanaka",
+      "grade": "Ingénieur de bord",
+      "nationalite": "Japon",
+      "missions_effectuees": 2,
+      "specialite": "Systèmes de propulsion",
+      "heures_vol_spatial": 2100,
+      "certifications": ["maintenance_orbitale", "systemes_propulsion", "EVA"]
+    },
+    {
+      "nom": "Elena Voss",
+      "grade": "Commandant",
+      "nationalite": "Allemagne",
+      "missions_effectuees": 4,
+      "specialite": "Pilotage & astrophysique",
+      "heures_vol_spatial": 6800,
+      "certifications": ["EVA", "pilotage_manuel", "amarrage", "commandement_mission"]
+    },
+    {
+      "nom": "Amir Patel",
+      "grade": "Médecin de bord",
+      "nationalite": "Inde",
+      "missions_effectuees": 2,
+      "specialite": "Médecine spatiale",
+      "heures_vol_spatial": 1500,
+      "certifications": ["medecine_urgence", "EVA"]
+    },
+    {
+      "nom": "Sofia Reyes",
+      "grade": "Ingénieur de bord",
+      "nationalite": "Mexique",
+      "missions_effectuees": 1,
+      "specialite": "Robotique & systèmes embarqués",
+      "heures_vol_spatial": 480,
+      "certifications": ["robotique_bras", "maintenance_orbitale"]
+    },
+    {
+      "nom": "Tomás Guérin",
+      "grade": "Spécialiste de mission",
+      "nationalite": "France",
+      "missions_effectuees": 0,
+      "specialite": "Exobiologie",
+      "heures_vol_spatial": 0,
+      "certifications": ["analyse_biologique", "protocoles_contamination"]
+    },
+    {
+      "nom": "Nikolaï Orlov",
+      "grade": "Commandant",
+      "nationalite": "Russie",
+      "missions_effectuees": 5,
+      "specialite": "Navigation interplanétaire",
+      "heures_vol_spatial": 9200,
+      "certifications": ["EVA", "pilotage_manuel", "amarrage", "commandement_mission", "survie_longue_duree"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mission_id": "MSN-001",
+  "distance_totale_km": 372123.98,
+  "vitesse_moyenne_km_s": 1.36,
+  "taux_conso_carburant_par_heure": 0.76,
+  "alertes": [
+    "[J+1] Communication dégradée",
+    "[J+3] Propulsion — alerte mineure",
+    "[J+3] Navigation — recalibrage"
+  ]
+}

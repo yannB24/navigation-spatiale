@@ -1,0 +1,76 @@
+{
+  "vaisseau": "Orion-7",
+  "mission_id": "MSN-001",
+  "releves": [
+    {
+      "timestamp": "2026-03-15T08:00:00Z",
+      "position_km": {"x": 0.0, "y": 0.0, "z": 0.0},
+      "vitesse_km_s": 11.2,
+      "altitude_km": 0,
+      "carburant_pourcent": 100.0,
+      "temperature_cabine_c": 22.1,
+      "oxygene_pourcent": 100.0,
+      "systemes": {"propulsion": "nominal", "communication": "nominal", "navigation": "nominal"}
+    },
+    {
+      "timestamp": "2026-03-15T14:00:00Z",
+      "position_km": {"x": 12540.0, "y": 8920.0, "z": 3100.0},
+      "vitesse_km_s": 10.8,
+      "altitude_km": 15800,
+      "carburant_pourcent": 94.2,
+      "temperature_cabine_c": 21.8,
+      "oxygene_pourcent": 99.1,
+      "systemes": {"propulsion": "nominal", "communication": "nominal", "navigation": "nominal"}
+    },
+    {
+      "timestamp": "2026-03-16T02:00:00Z",
+      "position_km": {"x": 45200.0, "y": 31050.0, "z": 12400.0},
+      "vitesse_km_s": 9.4,
+      "altitude_km": 56300,
+      "carburant_pourcent": 87.6,
+      "temperature_cabine_c": 21.5,
+      "oxygene_pourcent": 97.8,
+      "systemes": {"propulsion": "nominal", "communication": "degradee", "navigation": "nominal"}
+    },
+    {
+      "timestamp": "2026-03-16T14:00:00Z",
+      "position_km": {"x": 89000.0, "y": 62300.0, "z": 25800.0},
+      "vitesse_km_s": 7.1,
+      "altitude_km": 112400,
+      "carburant_pourcent": 79.1,
+      "temperature_cabine_c": 20.9,
+      "oxygene_pourcent": 96.2,
+      "systemes": {"propulsion": "nominal", "communication": "nominal", "navigation": "nominal"}
+    },
+    {
+      "timestamp": "2026-03-17T08:00:00Z",
+      "position_km": {"x": 156000.0, "y": 108500.0, "z": 44200.0},
+      "vitesse_km_s": 4.6,
+      "altitude_km": 198700,
+      "carburant_pourcent": 68.3,
+      "temperature_cabine_c": 19.7,
+      "oxygene_pourcent": 94.5,
+      "systemes": {"propulsion": "alerte_mineure", "communication": "nominal", "navigation": "nominal"}
+    },
+    {
+      "timestamp": "2026-03-17T20:00:00Z",
+      "position_km": {"x": 210000.0, "y": 145000.0, "z": 59800.0},
+      "vitesse_km_s": 2.8,
+      "altitude_km": 267500,
+      "carburant_pourcent": 55.7,
+      "temperature_cabine_c": 18.4,
+      "oxygene_pourcent": 93.1,
+      "systemes": {"propulsion": "nominal", "communication": "nominal", "navigation": "recalibrage"}
+    },
+    {
+      "timestamp": "2026-03-18T12:00:00Z",
+      "position_km": {"x": 298400.0, "y": 205600.0, "z": 84500.0},
+      "vitesse_km_s": 1.2,
+      "altitude_km": 378200,
+      "carburant_pourcent": 42.1,
+      "temperature_cabine_c": 17.8,
+      "oxygene_pourcent": 91.8,
+      "systemes": {"propulsion": "nominal", "communication": "nominale", "navigation": "nominal"}
+    }
+  ]
+}

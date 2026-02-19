@@ -1,0 +1,55 @@
+{
+  "missions": [
+    {
+      "id": "MSN-001",
+      "nom": "Artemis IV",
+      "destination": "Lune",
+      "statut": "en_cours",
+      "equipage": ["Cmdr. Léa Fontaine", "Dr. Karim Bensaïd", "Ing. Yuki Tanaka"],
+      "date_lancement": "2026-03-15",
+      "duree_prevue_jours": 21,
+      "vaisseau": "Orion-7"
+    },
+    {
+      "id": "MSN-002",
+      "nom": "Helios Pioneer",
+      "destination": "Mars",
+      "statut": "planifiee",
+      "equipage": ["Cmdr. Elena Voss", "Dr. Amir Patel", "Ing. Sofia Reyes", "Bio. Tomás Guérin"],
+      "date_lancement": "2027-07-22",
+      "duree_prevue_jours": 274,
+      "vaisseau": "Ares-X"
+    },
+    {
+      "id": "MSN-003",
+      "nom": "Voyager Legacy",
+      "destination": "Jupiter (survol)",
+      "statut": "terminee",
+      "equipage": [],
+      "date_lancement": "2024-11-01",
+      "duree_prevue_jours": 900,
+      "vaisseau": "Probe-VL3",
+      "rapport_final": "space_data/rapports/voyager_legacy.txt"
+    },
+    {
+      "id": "MSN-004",
+      "nom": "Lunar Gateway Resupply",
+      "destination": "Orbite lunaire",
+      "statut": "en_cours",
+      "equipage": [],
+      "date_lancement": "2026-01-10",
+      "duree_prevue_jours": 5,
+      "vaisseau": "Cargo-LG8"
+    },
+    {
+      "id": "MSN-005",
+      "nom": "Titan Explorer",
+      "destination": "Titan (Saturne)",
+      "statut": "annulee",
+      "equipage": ["Cmdr. Nikolaï Orlov"],
+      "date_lancement": null,
+      "duree_prevue_jours": 2190,
+      "vaisseau": "Cassini-II"
+    }
+  ]
+}

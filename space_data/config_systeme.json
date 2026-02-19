@@ -1,0 +1,19 @@
+{
+  "centre_controle": "Houston-II",
+  "version_logiciel": "NavSys 4.7.2",
+  "frequence_telemetrie_sec": 30,
+  "seuils_alerte": {
+    "carburant_min_pourcent": 20.0,
+    "oxygene_min_pourcent": 85.0,
+    "temperature_cabine_min_c": 16.0,
+    "temperature_cabine_max_c": 28.0,
+    "vitesse_max_km_s": 15.0
+  },
+  "repertoires": {
+    "logs": "space_data/logs/",
+    "rapports": "space_data/rapports/",
+    "sauvegardes": "space_data/backups/",
+    "telemetrie_brute": "space_data/raw/"
+  },
+  "extensions_autorisees": [".json", ".csv", ".log", ".txt"]
+}
